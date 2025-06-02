@@ -54,4 +54,4 @@ Fall and Spring seasons see higher anime releases and viewer engagement.
 #### 📩 Credits
 Dataset: Kaggle Anime Dataset
 
-Created By: Sejal Londhe and Chithira Moozhickal
+Created By: Sejal Londhe and Chithira M
